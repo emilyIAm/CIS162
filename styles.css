@@ -1,0 +1,33 @@
+body {
+    background-color: #333d29;
+    background-image: linear-gradient(#333d29, #D5BF86);
+    margin: 0;
+    padding: 0;
+    color: white;
+    text-align: center;
+    }
+    
+header{
+    background-color: #333d29;
+    color: white;
+    }
+
+h1{
+    color: white;
+    }
+
+nav > ul {
+    background-color: white;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    color: white;
+    }
+    
+footer {
+    text-align: center;
+    }
+    
+section{
+    color:white;
+    }
